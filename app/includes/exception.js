@@ -1,0 +1,1 @@
+// exports.DB_CONNECT_EXCEPTION = {code : -1, message : "DB_CONNECT_EXCEPTION_MSG"};

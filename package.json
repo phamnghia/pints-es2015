@@ -1,0 +1,23 @@
+{
+  "name": "Core_Email_Marketing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "APP_ENV=dev nodemon --watch . index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pints/cores": "file:pints/cores",
+    "@pints/socket": "file:pints/socket",
+    "@pints/utils": "file:pints/utils",
+    "aws-sdk": "*",
+    "mongoose": "^5.1.5",
+    "shortcode-parser": "0.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  }
+}

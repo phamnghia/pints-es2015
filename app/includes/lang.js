@@ -1,0 +1,1 @@
+// exports.DB_CONNECT_EXCEPTION_MSG = "Kết nối đến cơ sở dữ liệu bị gián đoạn";
